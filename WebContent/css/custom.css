@@ -1,0 +1,38 @@
+
+
+#user-dropdown li a:hover{
+	color: #1784fb;
+	background: #fff;
+}
+
+#user-dropdown li a{
+	color: black;
+}
+
+
+#search-area{
+	padding-top: 20px;
+}
+
+#nav-pills{
+	padding-bottom: 20px;
+}
+#nav-pills > h3{
+	padding-top: 15px;
+	color: #262626;
+}
+
+#signinbutton{
+	color:#58ca7e !important; 
+	background-color:white !important;
+	border-color: white !important;
+}
+
+
+#myfooter{
+	font-size: 15px;
+}
+
+#myfooter li{
+list-style-type: none;
+}
